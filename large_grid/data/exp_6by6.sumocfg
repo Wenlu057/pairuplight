@@ -1,0 +1,7 @@
+<configuration>
+  <input>
+    <net-file value="exp_6by6.net.xml"/>
+    <route-files value="exp_6by6.rou.xml"/>
+    <additional-files value="exp_6by6.add.xml"/>
+  </input>
+</configuration>

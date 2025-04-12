@@ -1,0 +1,12 @@
+<configuration>
+  <input>
+    <edge-files value="exp_6by6.edg.xml"/>
+    <node-files value="exp_6by6.nod.xml"/>
+    <type-files value="exp_6by6.typ.xml"/>
+    <tllogic-files value="exp_6by6.tll.xml"/>
+    <connection-files value="exp_6by6.con.xml"/>
+  </input>
+  <output>
+    <output-file value="exp_6by6.net.xml"/>
+  </output>
+</configuration>
